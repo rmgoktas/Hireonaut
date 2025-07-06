@@ -24,7 +24,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
@@ -57,7 +56,6 @@
 - **Database**: PostgreSQL  
 - **Deployment**: AWS EC2 with Docker Compose
 
-## Screenshots
 
 <p align="center">
   <a href="https://hireonaut.netlify.app/" target="_blank" rel="noopener noreferrer">
